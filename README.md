@@ -5,10 +5,12 @@
 ใช้ [jsDeliver](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@2/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@2/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff(2)
 ```
 
-ตัวอย่าง:
+ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@2/fonts/)
+
+ตัวอย่างการใช้งาน:
 
 ```css
 @font-face {
