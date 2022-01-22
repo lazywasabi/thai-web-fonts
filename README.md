@@ -17,17 +17,17 @@
 ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
 ```
 
-ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/)
+ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/)
 
 ตัวอย่างการใช้งาน:
 
 ```css
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
     format('woff2');
   font-style: normal;
   font-weight: normal;
@@ -36,7 +36,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/ชื่อฟอ
 
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/NotoSansThai/NotoSansThai-Bold.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/NotoSansThai/NotoSansThai-Bold.woff2')
     format('woff2');
   font-style: normal;
   font-weight: bold;
@@ -190,7 +190,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@3/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/Kodchasan  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Kodchasan/blob/master/OFL.txt)
 
-### [Koho](fonts/Koho)
+### [KoHo](fonts/KoHo)
 
 ไทยเฟซ: https://thaifaces.com/specimen/koho/  
 เว็บไซต์: https://cadsondemak.github.io/Koho/  
