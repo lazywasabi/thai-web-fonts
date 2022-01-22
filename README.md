@@ -2,7 +2,7 @@
 
 ## CDN
 
-ใช้ [jsDeliver](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
+ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
 
 ```
 https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@2/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff(2)
