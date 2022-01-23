@@ -3,20 +3,18 @@
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
 - ดูตัวอย่างฟอนต์ และทดลองพิมพ์ได้ที่บน [CodePen](https://codepen.io/lazywasabi/full/zYEgaMW) หรือเว็บไซต์[ไทยเฟซ](https://thaifaces.com/) ลิงก์ในรายชื่อฟอนต์ด้านล่าง
-- ทุกฟอนต์สามารถใช้งานเชิงพาณิชย์ได้ ดูสัญญาอนุญาตได้ในรายชื่อฟอนต์ด้านล่าง
+- ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
 - รองรับเฉพาะไฟล์ WOFF2 (ไฟล์ WOFF ใช้งานได้ในเวอร์ชัน [2.0.0](https://github.com/lazywasabi/thai-web-fonts/tree/v2.0.0))
 
 ## การใช้งาน
 
 ### ใช้งานผ่าน CDN
 
-ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
+ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN ดูรายชื่อไฟล์พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/)
 
 ```
 https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
 ```
-
-ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/)
 
 ตัวอย่างการใช้งาน:
 
@@ -113,15 +111,13 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 
 ### [Chulabhorn Likit Display](fonts/ChulabhornLikitDisplay)
 
-ไทยเฟซ (Text): https://thaifaces.com/specimen/chulabhorn-likit-text/  
-ไทยเฟซ (Display): https://thaifaces.com/specimen/chulabhorn-likit-display/  
+ไทยเฟซ: https://thaifaces.com/specimen/chulabhorn-likit-display/  
 เว็บไซต์: https://www.cra.ac.th/th/download_fonts  
 สัญญาอนุญาต: SIL Open Font License, version 1.1 (อ้างอิงจาก[คัดสรร ดีมาก](https://www.cadsondemak.com/medias/read/cra-point-of-view))
 
 ### [Chulabhorn Likit Text](fonts/ChulabhornLikitText)
 
-ไทยเฟซ (Text): https://thaifaces.com/specimen/chulabhorn-likit-text/  
-ไทยเฟซ (Display): https://thaifaces.com/specimen/chulabhorn-likit-display/  
+ไทยเฟซ: https://thaifaces.com/specimen/chulabhorn-likit-text/  
 เว็บไซต์: https://www.cra.ac.th/th/download_fonts  
 สัญญาอนุญาต: SIL Open Font License, version 1.1 (อ้างอิงจาก[คัดสรร ดีมาก](https://www.cadsondemak.com/medias/read/cra-point-of-view))
 
