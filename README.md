@@ -295,19 +295,19 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/sarabun  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Sarabun/blob/master/OFL.txt)
 
-### [Srisakdi](fonts/Srisakdi)
-
-ไทยเฟซ: https://thaifaces.com/specimen/srisakdi/  
-เว็บไซต์: https://cadsondemak.github.io/Srisakdi/  
-ซอร์สโค้ด: https://github.com/cadsondemak/Srisakdi  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Srisakdi/blob/master/OFL.txt)
-
 ### [Sriracha](fonts/Sriracha)
 
 ไทยเฟซ: https://thaifaces.com/specimen/sriracha/  
 เว็บไซต์: https://cadsondemak.github.io/sriracha/  
 ซอร์สโค้ด: https://github.com/cadsondemak/sriracha  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/sriracha/blob/master/OFL.txt)
+
+### [Srisakdi](fonts/Srisakdi)
+
+ไทยเฟซ: https://thaifaces.com/specimen/srisakdi/  
+เว็บไซต์: https://cadsondemak.github.io/Srisakdi/  
+ซอร์สโค้ด: https://github.com/cadsondemak/Srisakdi  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Srisakdi/blob/master/OFL.txt)
 
 ### [Taviraj](fonts/Taviraj)
 
