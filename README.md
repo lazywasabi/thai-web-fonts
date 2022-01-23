@@ -81,6 +81,34 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/Bai-Jamjuree  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Bai-Jamjuree/blob/master/OFL.txt)
 
+### [Boon](fonts/Boon)
+
+ไทยเฟซ: https://thaifaces.com/specimen/boon/  
+เว็บไซต์: https://fontuni.com/boon/  
+ซอร์สโค้ด: https://github.com/fontuni/boon  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/fontuni/boon/blob/master/OFL.txt)
+
+### [BoonJot](fonts/BoonJot)
+
+ไทยเฟซ: https://thaifaces.com/specimen/boonjot/  
+เว็บไซต์: https://fontuni.com/boonjot/  
+ซอร์สโค้ด: https://github.com/fontuni/boonjot  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/fontuni/boonjot/blob/master/OFL.txt)
+
+### [BoonTook](fonts/BoonTook)
+
+ไทยเฟซ: https://thaifaces.com/specimen/boontook/  
+เว็บไซต์: https://fontuni.com/boontook/  
+ซอร์สโค้ด: https://github.com/fontuni/boontook  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/fontuni/boontook/blob/master/OFL.txt)
+
+### [BoonTook Mon](fonts/BoonTookMon)
+
+ไทยเฟซ: https://thaifaces.com/specimen/boontook-mon/  
+เว็บไซต์: https://fontuni.com/boontook/  
+ซอร์สโค้ด: https://github.com/fontuni/boontook  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/fontuni/boontook/blob/master/OFL.txt)
+
 ### [Chakra Petch](fonts/ChakraPetch)
 
 ไทยเฟซ: https://thaifaces.com/specimen/chakra-petch/  
