@@ -2,15 +2,11 @@
 
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
-- ดูตัวอย่างฟอนต์ และทดลองพิมพ์ได้ที่เว็บไซต์[ไทยเฟซ](https://thaifaces.com/) ลิงก์ในรายชื่อฟอนต์ด้านล่าง
+- ดูตัวอย่างฟอนต์ และทดลองพิมพ์ได้ที่บน [CodePen](https://codepen.io/lazywasabi/full/zYEgaMW) หรือเว็บไซต์[ไทยเฟซ](https://thaifaces.com/) ลิงก์ในรายชื่อฟอนต์ด้านล่าง
 - ทุกฟอนต์สามารถใช้งานเชิงพาณิชย์ได้ ดูสัญญาอนุญาตได้ในรายชื่อฟอนต์ด้านล่าง
-- รองรับเฉพาะไฟล์ชนิด woff2 (ไฟล์ woff ใช้งานได้ในเวอร์ชัน [2.0.0](https://github.com/lazywasabi/thai-web-fonts/tree/v2.0.0))
+- รองรับเฉพาะไฟล์ WOFF2 (ไฟล์ WOFF ใช้งานได้ในเวอร์ชัน [2.0.0](https://github.com/lazywasabi/thai-web-fonts/tree/v2.0.0))
 
 ## การใช้งาน
-
-### ดาวน์โหลด
-
-ดาวน์โหลดไฟล์เวอร์ชันล่าสุดได้ที่ทาง [GitHub Releases](https://github.com/lazywasabi/thai-web-fonts/releases)
 
 ### ใช้งานผ่าน CDN
 
