@@ -17,17 +17,17 @@
 ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
 ```
 
-ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/)
+ดูรายชื่อไฟล์ที่ใช้งานได้ พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/)
 
 ตัวอย่างการใช้งาน:
 
 ```css
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
     format('woff2');
   font-style: normal;
   font-weight: normal;
@@ -36,7 +36,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/ชื่อฟอ
 
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/NotoSansThai/NotoSansThai-Bold.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/NotoSansThai/NotoSansThai-Bold.woff2')
     format('woff2');
   font-style: normal;
   font-weight: bold;
@@ -115,7 +115,14 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/chonburi  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/chonburi/blob/master/OFL.txt)
 
-### [Chulabhorn Likit](fonts/ChulabhornLikit)
+### [Chulabhorn Likit Display](fonts/ChulabhornLikitDisplay)
+
+ไทยเฟซ (Text): https://thaifaces.com/specimen/chulabhorn-likit-text/  
+ไทยเฟซ (Display): https://thaifaces.com/specimen/chulabhorn-likit-display/  
+เว็บไซต์: https://www.cra.ac.th/th/download_fonts  
+สัญญาอนุญาต: SIL Open Font License, version 1.1 (อ้างอิงจาก[คัดสรร ดีมาก](https://www.cadsondemak.com/medias/read/cra-point-of-view))
+
+### [Chulabhorn Likit Text](fonts/ChulabhornLikitText)
 
 ไทยเฟซ (Text): https://thaifaces.com/specimen/chulabhorn-likit-text/  
 ไทยเฟซ (Display): https://thaifaces.com/specimen/chulabhorn-likit-display/  
@@ -251,6 +258,13 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@4/fonts/ชื่อฟอ
 **หมายเหตุ:** build จากซอร์สบน GitHub [ดูรายละเอียดเพิ่มเติม](https://lazywasabi.com/blog/noto-sans-thai-looped/)  
 ตัวอย่างและทดลองพิมพ์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped  
 เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped  
+ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
+
+### [Noto Sans Thai UI](fonts/NotoSansThaiUI)
+
+ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai/  
+เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai  
 ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
 
