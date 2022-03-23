@@ -14,13 +14,13 @@
 ไฟล์ฟอนต์:
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
 ```
 
 ไฟล์ CSS:
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อฟอนต์.css
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอนต์/ชื่อฟอนต์.css
 ```
 
 ตัวอย่างการใช้งาน:
@@ -28,7 +28,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ```css
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
     format('woff2');
   font-style: normal;
   font-weight: normal;
