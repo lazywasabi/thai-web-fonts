@@ -53,3 +53,11 @@
   font-weight: 700;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'K2D';
+  src: url('K2D-ExtraBold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
