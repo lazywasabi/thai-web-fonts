@@ -2,18 +2,25 @@
 
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
-- ดูตัวอย่างฟอนต์ และทดลองพิมพ์ได้ที่บน [CodePen](https://codepen.io/lazywasabi/full/zYEgaMW) หรือเว็บไซต์[ไทยเฟซ](https://thaifaces.com/) ลิงก์ในรายชื่อฟอนต์ด้านล่าง
+- ดูข้อมูลและวิธีใช้งาน พร้อม CSS พร้อมใช้ได้บนเว็บไซต์ [thaiwebfonts.lazywasabi.com](https://thaiwebfonts.lazywasabi.com)
 - ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
-- รองรับเฉพาะไฟล์ WOFF2 (ไฟล์ WOFF ใช้งานได้ในเวอร์ชัน [2.0.0](https://github.com/lazywasabi/thai-web-fonts/tree/v2.0.0))
 
 ## การใช้งาน
 
 ### ใช้งานผ่าน CDN
 
-ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN ดูรายชื่อไฟล์พร้อมลิงก์ CDN ได้[ที่นี่](https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/)
+ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN ดูข้อมูลเพิ่มเติมบน[เว็บไซต์](https://thaiwebfonts.lazywasabi.com/docs/getting-started/)
+
+ไฟล์ฟอนต์:
 
 ```
 https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+```
+
+ไฟล์ CSS:
+
+```
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอนต์/ชื่อฟอนต์.css
 ```
 
 ตัวอย่างการใช้งาน:
@@ -25,15 +32,6 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
     format('woff2');
   font-style: normal;
   font-weight: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/NotoSansThai/NotoSansThai-Bold.woff2')
-    format('woff2');
-  font-style: normal;
-  font-weight: bold;
   font-display: swap;
 }
 ```
@@ -112,7 +110,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ### [Chakra Petch](fonts/ChakraPetch)
 
 ไทยเฟซ: https://thaifaces.com/specimen/chakra-petch/  
-เว็บไซต์: https://cadsondemak.github.io/chakra-petch/  
+เว็บไซต์: https://cadsondemak.github.io/Chakra-Petch/
 ซอร์สโค้ด: https://github.com/cadsondemak/Chakra-Petch  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Chakra-Petch/blob/master/OFL.txt)
 
@@ -248,16 +246,16 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ### [Mali](fonts/Mali)
 
 ไทยเฟซ: https://thaifaces.com/specimen/mali/  
-เว็บไซต์: https://cadsondemak.github.io/mitr/  
-ซอร์สโค้ด: https://github.com/cadsondemak/mitr  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/mitr/blob/master/OFL)
+เว็บไซต์: https://cadsondemak.github.io/Mali/  
+ซอร์สโค้ด: https://github.com/cadsondemak/Mali  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Mali/blob/master/OFL.txt)
 
 ### [Mitr](fonts/Mitr)
 
 ไทยเฟซ: https://thaifaces.com/specimen/mitr/  
-เว็บไซต์: https://cadsondemak.github.io/Mali/  
-ซอร์สโค้ด: https://github.com/cadsondemak/Mali  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Mali/blob/master/OFL.txt)
+เว็บไซต์: https://cadsondemak.github.io/mitr/  
+ซอร์สโค้ด: https://github.com/cadsondemak/mitr  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/mitr/blob/master/OFL)
 
 ### [Niramit](fonts/Niramit)
 
