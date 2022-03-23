@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Droidsans Thai';
+  font-family: 'Droid Sans Thai';
   src: url('DroidSansThai-Regular.woff2') format('woff2');
   font-style: normal;
   font-weight: 400;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-  font-family: 'Droidsans Thai';
+  font-family: 'Droid Sans Thai';
   src: url('DroidSansThai-Bold.woff2') format('woff2');
   font-style: normal;
   font-weight: 700;
