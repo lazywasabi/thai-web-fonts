@@ -46,7 +46,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 
 - หลักแรก (Major): จะปรับเมื่อมีการเปลี่ยนแปลงไฟล์ที่ส่งผลต่อ URL เช่นจาก [เวอร์ชัน 2.0.0 เป็น 3.0.0](https://github.com/lazywasabi/thai-web-fonts/compare/v2.0.0...v3.0.0) เนื่องจากมีการลบไฟล์ woff
 - หลักที่สอง (Minor): จะปรับเมื่อมีการเปลี่ยนแปลงไฟล์ที่ไม่ส่งผลต่อ URL แต่อาจส่งผลต่อการแสดงผลฟอนต์ เช่น เพิ่มฟอนต์ใหม่ หรืออัปเดตเวอร์ชันฟอนต์
-- หลักที่สาม (Patch): จะปรับเมื่อมีการเปลี่ยนแปลงที่ไม่ส่งผลต่อ URL และการแสดงผลฟอนต์
+- หลักที่สาม (Patch): การเปลี่ยนแปลงอื่นๆ
 
 สำหรับการใช้งานทั่วไป ผมแนะนำให้ใช้เลขเวอร์ชันหลักแรกอย่างเดียวได้เลยครับ (แบบในตัวอย่างด้านบน) เพราะจะได้ใช้ฟอนต์เวอร์ชันล่าสุด และไม่ส่งผลต่อ URL ไฟล์
 
@@ -351,14 +351,14 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@5/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/Thasadith  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Thasadith/blob/master/OFL.txt)
 
-### [TlwgTypewriter](fonts/TlwgTypewriter)
+### [Tlwg Typewriter](fonts/TlwgTypewriter)
 
 ไทยเฟซ: https://thaifaces.com/specimen/tlwg-typewriter/  
 เว็บไซต์: https://linux.thai.net/projects/fonts-tlwg  
 ซอร์สโค้ด: https://github.com/tlwg/fonts-tlwg  
 สัญญาอนุญาต: [GNU General Public License, version 2](https://github.com/tlwg/fonts-tlwg/blob/master/COPYING)
 
-### [TlwgTypist](fonts/TlwgTypist)
+### [Tlwg Typist](fonts/TlwgTypist)
 
 ไทยเฟซ: https://thaifaces.com/specimen/tlwg-typist/  
 เว็บไซต์: https://linux.thai.net/projects/fonts-tlwg  

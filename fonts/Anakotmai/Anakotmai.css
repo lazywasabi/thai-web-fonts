@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Anakotmai';
+  src: url('Anakotmai-Light.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anakotmai';
+  src: url('Anakotmai-Medium.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anakotmai';
+  src: url('Anakotmai-Bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
