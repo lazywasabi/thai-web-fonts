@@ -1,6 +1,6 @@
 # เว็บฟอนต์ภาษาไทย
 
-[![เวอร์ชันล่าสุด](https://img.shields.io/github/v/tag/lazywasabi/thai-web-fonts?sort=semver&label=version)](/docs/changelog/) [![จำนวนการใช้รายเดือนบน jsDelivr](https://img.shields.io/jsdelivr/gh/hm/lazywasabi/thai-web-fonts?color=ff5627)](https://www.jsdelivr.com/package/gh/lazywasabi/thai-web-fonts)
+[![เวอร์ชันล่าสุด](https://img.shields.io/github/v/tag/lazywasabi/thai-web-fonts?sort=semver&label=version)](https://github.com/lazywasabi/thai-web-fonts/releases) [![จำนวนการใช้รายเดือนบน jsDelivr](https://img.shields.io/jsdelivr/gh/hm/lazywasabi/thai-web-fonts?color=ff5627)](https://www.jsdelivr.com/package/gh/lazywasabi/thai-web-fonts)
 
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
