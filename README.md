@@ -1,8 +1,10 @@
 # เว็บฟอนต์ภาษาไทย
 
+[![เวอร์ชันล่าสุด](https://img.shields.io/github/v/tag/lazywasabi/thai-web-fonts?sort=semver&label=version)](/docs/changelog/) [![จำนวนการใช้รายเดือนบน jsDelivr](https://img.shields.io/jsdelivr/gh/hm/lazywasabi/thai-web-fonts?color=ff5627)](https://www.jsdelivr.com/package/gh/lazywasabi/thai-web-fonts)
+
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
-- ดูข้อมูลและวิธีใช้งาน พร้อม CSS พร้อมใช้ได้บนเว็บไซต์ [thaiwebfonts.lazywasabi.com](https://thaiwebfonts.lazywasabi.com)
+- ดูข้อมูลและวิธีใช้งาน ตัวอย่างฟอนต์ และ CSS พร้อมใช้ได้บนเว็บไซต์ [thaiwebfonts.lazywasabi.com](https://thaiwebfonts.lazywasabi.com)
 - ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
 
 ## การใช้งาน
