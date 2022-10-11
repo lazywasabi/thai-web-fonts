@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Noto Serif Thai';
+  src: url('NotoSerifThai[wdth,wght].woff2') format('woff2');
+  font-style: normal;
+  font-stretch: 62.5% 100%;
+  font-weight: 100 900;
+  font-display: swap;
+}
