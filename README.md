@@ -262,22 +262,22 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 
 ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai/  
 เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai  
-ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
+ซอร์สโค้ด: https://github.com/notofonts/thai  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/notofonts/thai/blob/main/OFL.txt)
 
 ### [Noto Sans Thai Looped](fonts/NotoSansThaiLooped)
 
 ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai-looped/  
 เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped  
-ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
+ซอร์สโค้ด: https://github.com/notofonts/thai  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/notofonts/thai/blob/main/OFL.txt)
 
 ### [Noto Serif Thai](fonts/NotoSerifThai)
 
 ไทยเฟซ: https://thaifaces.com/specimen/noto-serif-thai/  
 เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Serif+Thai  
-ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
+ซอร์สโค้ด: https://github.com/notofonts/thai  
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/notofonts/thai/blob/main/OFL.txt)
 
 ### [Pattaya](fonts/Pattaya)
 
