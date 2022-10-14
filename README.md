@@ -16,13 +16,13 @@
 ไฟล์ฟอนต์:
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอนต์/ชื่อไฟล์.woff2
 ```
 
 ไฟล์ CSS:
 
 ```
-https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอนต์/ชื่อฟอนต์.css
+https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอนต์/ชื่อฟอนต์.css
 ```
 
 ตัวอย่างการใช้งาน:
@@ -30,7 +30,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอ
 ```css
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
+  src: url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/NotoSansThai/NotoSansThai-Regular.woff2')
     format('woff2');
   font-style: normal;
   font-weight: normal;
@@ -42,15 +42,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอ
 
 ผมไม่แนะนำให้ลบเลขเวอร์ชันออกจาก URL หรือใช้ `@latest` เพราะในกรณีที่มีการเปลี่ยนแปลงรูปแบบไฟล์ URL เดิมจะยังคงสามารถใช้งานได้ตามปกติ
 
-โดยการกำหนดเลขเวอร์ชันผมจะใช้ระบบคล้าย [semver](https://semver.org/)
-
-- หลักแรก (Major): จะปรับเมื่อมีการเปลี่ยนแปลงไฟล์ที่ส่งผลต่อ URL เช่นจาก [เวอร์ชัน 2.0.0 เป็น 3.0.0](https://github.com/lazywasabi/thai-web-fonts/compare/v2.0.0...v3.0.0) เนื่องจากมีการลบไฟล์ woff
-- หลักที่สอง (Minor): จะปรับเมื่อมีการเปลี่ยนแปลงไฟล์ที่ไม่ส่งผลต่อ URL แต่อาจส่งผลต่อการแสดงผลฟอนต์ เช่น เพิ่มฟอนต์ใหม่ หรืออัปเดตเวอร์ชันฟอนต์
-- หลักที่สาม (Patch): การเปลี่ยนแปลงอื่นๆ
-
-สำหรับการใช้งานทั่วไป ผมแนะนำให้ใช้เลขเวอร์ชันหลักแรกอย่างเดียวได้เลยครับ (แบบในตัวอย่างด้านบน) เพราะจะได้ใช้ฟอนต์เวอร์ชันล่าสุด และไม่ส่งผลต่อ URL ไฟล์
-
-สามารถดูวิธีกำหนดเวอร์ชันใน URL เพิ่มเติมได้ที่[เว็บไซต์ของ jsDelivr](https://www.jsdelivr.com/features#gh) และ[ดูบันทึกการเปลี่ยนแปลงได้บน GitHub](https://github.com/lazywasabi/thai-web-fonts/releases)
+อ่านรายละเอียดเพิ่มเติมได้บน[เว็บไซต์](https://thaiwebfonts.lazywasabi.com/docs/versioning/)
 
 ## รายชื่อฟอนต์
 
@@ -275,16 +267,8 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/ชื่อฟอ
 
 ### [Noto Sans Thai Looped](fonts/NotoSansThaiLooped)
 
-**หมายเหตุ:** build จากซอร์สบน GitHub [ดูรายละเอียดเพิ่มเติม](https://lazywasabi.com/blog/noto-sans-thai-looped/)  
-ตัวอย่างและทดลองพิมพ์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped  
+ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai-looped/  
 เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped  
-ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
-สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
-
-### [Noto Sans Thai UI](fonts/NotoSansThaiUI)
-
-ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai/  
-เว็บไซต์: https://fonts.google.com/noto/specimen/Noto+Sans+Thai  
 ซอร์สโค้ด: https://github.com/googlefonts/noto-fonts  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE)
 
