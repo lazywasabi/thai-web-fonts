@@ -258,6 +258,13 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/Niramit  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Niramit/blob/master/OFL.txt)
 
+### [Norasi](fonts/Norasi)
+
+ไทยเฟซ: https://thaifaces.com/specimen/norasi/  
+เว็บไซต์: https://linux.thai.net/projects/fonts-tlwg  
+ซอร์สโค้ด: https://github.com/tlwg/fonts-tlwg  
+สัญญาอนุญาต: [GNU General Public License, version 2](https://github.com/tlwg/fonts-tlwg/blob/master/COPYING)
+
 ### [Noto Sans Thai](fonts/NotoSansThai)
 
 ไทยเฟซ: https://thaifaces.com/specimen/noto-sans-thai/  
@@ -300,12 +307,26 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/prompt  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/prompt/blob/master/OFL.txt)
 
+### [Purisa](fonts/Purisa)
+
+ไทยเฟซ: https://thaifaces.com/specimen/purisa/  
+เว็บไซต์: https://linux.thai.net/projects/fonts-tlwg  
+ซอร์สโค้ด: https://github.com/tlwg/fonts-tlwg  
+สัญญาอนุญาต: [GNU General Public License, version 2](https://github.com/tlwg/fonts-tlwg/blob/master/COPYING)
+
 ### [Sarabun](fonts/Sarabun)
 
 ไทยเฟซ: https://thaifaces.com/specimen/sarabun/  
 เว็บไซต์: https://cadsondemak.github.io/Sarabun/  
 ซอร์สโค้ด: https://github.com/cadsondemak/sarabun  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Sarabun/blob/master/OFL.txt)
+
+### [Sawasdee](fonts/Sawasdee)
+
+ไทยเฟซ: https://thaifaces.com/specimen/sawasdee/  
+เว็บไซต์: https://linux.thai.net/projects/fonts-tlwg  
+ซอร์สโค้ด: https://github.com/tlwg/fonts-tlwg  
+สัญญาอนุญาต: [GNU General Public License, version 2](https://github.com/tlwg/fonts-tlwg/blob/master/COPYING)
 
 ### [Sriracha](fonts/Sriracha)
 
