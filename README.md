@@ -223,6 +223,11 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 ซอร์สโค้ด: https://github.com/cadsondemak/Krub  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Krub/blob/master/OFL.txt)
 
+### [LINE Seed Sans TH](fonts/LINESeedSansTH)
+
+เว็บไซต์: https://seed.line.me/index_th.html  
+สัญญาอนุญาต: [สัญญาอนุญาตฟอนต์ LINE Seed](fonts/LINESeedSansTH/LICENSE.txt)
+
 ### [Loma](fonts/Loma)
 
 ไทยเฟซ: https://thaifaces.com/specimen/loma/  
