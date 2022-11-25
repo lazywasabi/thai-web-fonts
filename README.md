@@ -226,7 +226,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 ### [LINE Seed Sans TH](fonts/LINESeedSansTH)
 
 เว็บไซต์: https://seed.line.me/index_th.html  
-สัญญาอนุญาต: [สัญญาอนุญาตฟอนต์ LINE Seed](fonts/LINESeedSansTH/LICENSE.txt)
+สัญญาอนุญาต: [SIL Open Font License, version 1.1](fonts/LINESeedSansTH/LICENSE.txt)
 
 ### [Loma](fonts/Loma)
 
