@@ -4,14 +4,13 @@
 
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
-- ดูข้อมูลและวิธีใช้งาน ตัวอย่างฟอนต์ และ CSS พร้อมใช้ได้บนเว็บไซต์ [thaiwebfonts.lazywasabi.com](https://thaiwebfonts.lazywasabi.com)
-- ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
+ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
 
 ## การใช้งาน
 
 ### ใช้งานผ่าน CDN
 
-ใช้ [jsDelivr](https://www.jsdelivr.com/) เพื่อใช้งานฟอนต์ผ่าน CDN ดูข้อมูลเพิ่มเติมบน[เว็บไซต์](https://thaiwebfonts.lazywasabi.com/docs/getting-started/)
+ใช้ [jsDelivr](https://www.jsdelivr.com/package/gh/lazywasabi/thai-web-fonts) เพื่อใช้งานฟอนต์ผ่าน CDN ดูรายชื่อฟอนต์ทั้งหมดพร้อมคัดลอกลิงก์ CDN ได้ที่[หน้านี้](https://www.jsdelivr.com/package/gh/lazywasabi/thai-web-fonts?tab=files)
 
 ไฟล์ฟอนต์:
 
