@@ -101,7 +101,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 ### [Chakra Petch](fonts/ChakraPetch)
 
 ไทยเฟซ: https://thaifaces.com/specimen/chakra-petch/  
-เว็บไซต์: https://cadsondemak.github.io/Chakra-Petch/
+เว็บไซต์: https://cadsondemak.github.io/Chakra-Petch/  
 ซอร์สโค้ด: https://github.com/cadsondemak/Chakra-Petch  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/cadsondemak/Chakra-Petch/blob/master/OFL.txt)
 
@@ -222,6 +222,7 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 
 ### [LINE Seed Sans TH](fonts/LINESeedSansTH)
 
+ไทยเฟซ: https://thaifaces.com/specimen/line-seed-sans-th/  
 เว็บไซต์: https://seed.line.me/index_th.html  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](fonts/LINESeedSansTH/LICENSE.txt)
 
