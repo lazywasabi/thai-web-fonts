@@ -4,7 +4,8 @@
 
 รวมเว็บฟอนต์ภาษาไทย สำหรับใช้งานผ่าน CDN
 
-ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
+- ดูข้อมูลและวิธีใช้งาน ตัวอย่างฟอนต์ และ CSS พร้อมใช้ได้บนเว็บไซต์ [**thaiwebfonts.lazywasabi.com**](https://thaiwebfonts.lazywasabi.com)
+- ทุกฟอนต์ใช้งานเชิงพาณิชย์ได้ การใช้งานฟอนต์ต้องไม่ละเมิดสัญญาอนุญาตของแต่ละฟอนต์ ดูสัญญาอนุญาตของทุกฟอนต์ได้ในรายชื่อด้านล่าง
 
 ## การใช้งาน
 
@@ -159,14 +160,14 @@ https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/ชื่อฟอ
 
 ### [IBM Plex Sans Thai](fonts/IBMPlexSansThai)
 
-ตัวอย่างและทดลองพิมพ์: https://fonts.google.com/specimen/IBM+Plex+Sans+Thai  
+ตัวอย่างและทดลองพิมพ์: https://thaiwebfonts.pages.dev/fonts/ibm-plex-sans-thai/  
 เว็บไซต์: https://www.ibm.com/plex/  
 ซอร์สโค้ด: https://github.com/IBM/plex  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt)
 
 ### [IBM Plex Sans Thai Looped](fonts/IBMPlexSansThaiLooped)
 
-ตัวอย่างและทดลองพิมพ์: https://fonts.google.com/specimen/IBM+Plex+Sans+Thai+Looped  
+ตัวอย่างและทดลองพิมพ์: https://thaiwebfonts.pages.dev/fonts/ibm-plex-sans-thai-looped/  
 เว็บไซต์: https://www.ibm.com/plex/  
 ซอร์สโค้ด: https://github.com/IBM/plex  
 สัญญาอนุญาต: [SIL Open Font License, version 1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt)
